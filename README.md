@@ -1,1 +1,1 @@
-# shop-shoppe
+# The Shop Shoppe
