@@ -1,7 +1,7 @@
-# The Shop Shoppe
+# Shop-Shoppe
 
 ## Description
-A simple online shop that is perfect for your gifting needs.  Search products by category and add them to your cart.  Sign up and log in as a user to purchase them! 
+A simple online shop and progressive web application that is perfect for your gifting needs.  Search products by category and add them to your cart.  Sign up and log in as a user to purchase them. Shop-Shoppe also includes offline functionality so you can access products and add items to your cart regardless of internet connection quality!
 
 ## **Table of Contents**
 * [Screenshots](#screenshots)
@@ -12,18 +12,16 @@ A simple online shop that is perfect for your gifting needs.  Search products by
 * [Questions](#questions)
 
 ## **Screenshots**
-![Search Books screenshot sample](./client/assets/search-book-screenshot.jpg)
-![Saved Books screenshot sample](./client/assets/saved-book-screenshot.jpg)
+![Shop-Shoppe homepage screenshot sample](./client/src/assets/screenshots/shop-shoppe-homepage-view.jpg)
+![Shop-Shoppe shopping cart view screenshot sample](./client/src/assets/screenshots/shop-shoppe-shopping-cart-view.jpg)
 
 ## **Programs**
 * Apollo
 * Apollo Server Express
 * bcrypt
-* Bootstrap
 * Concurrently
 * CSS
 * Express
-* Google API
 * GraphQL
 * Heroku
 * HTML
@@ -37,17 +35,21 @@ A simple online shop that is perfect for your gifting needs.  Search products by
 * nodemon
 * React
 * React Router
+* Stripe
 
 ## **Website**
-<a href="https://fave-books.herokuapp.com/" target="_blank">FaveBooks</a>
+<a href="https://safe-cove-31802.herokuapp.com/" target="_blank">Shop-Shoppe</a>
 
 ## **Usage**
 ***Note: Using Chrome is highly recommended for the optimal experience***
-1. Visit the site using Chrome on your computer or smart phone
-2. Use the search bar to find book recommendations based on keyword
-3. Sign up and log in as a user to save books as favorites
-4. Once logged in, click the 'See Your Books' link to view your saved books
-5. Encourage your friends to sign up!
+1. To download the app version, open Chrome on your computer or smart phone
+2. Visit the [Shop-Shoppe website](https://safe-cove-31802.herokuapp.com/)
+3. At the top right of the address bar, click the install button which may be in the form of a `+` or a desktop computer icon
+4. Follow the onscreen instructions to install
+5. Click the app icon on your desktop or smart phone home screen to open the app!
+6. View products by category and click *Add to cart* to add items to your shopping cart 
+7. Sign up and log in as a user to purchase the products and checkout using Stripe
+8. Encourage your friends to sign up!
 
 ## **License**
 The project is distributed under the [Creative Commons License](https://creativecommons.org/publicdomain/zero/1.0/)
