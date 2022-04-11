@@ -44,9 +44,9 @@ A simple online shop and progressive web application that is perfect for your gi
 ***Note: Using Chrome is highly recommended for the optimal experience***
 1. To download the app version, open Chrome on your computer or smart phone
 2. Visit the [Shop-Shoppe website](https://safe-cove-31802.herokuapp.com/)
-3. At the top right of the address bar, click the install button which may be in the form of a `+` or a desktop computer icon
+3. At the top right of the address bar, click the install button which may be in the form of a `+` or a desktop computer icon with a downward-pointing arrow
 4. Follow the onscreen instructions to install
-5. Click the app icon on your desktop or smart phone home screen to open the app!
+5. Click the app icon on your desktop or smart phone home screen to open the app
 6. View products by category and click *Add to cart* to add items to your shopping cart 
 7. Sign up and log in as a user to purchase the products and checkout using Stripe
 8. Encourage your friends to sign up!
